@@ -1,5 +1,5 @@
-My name is Noel. I am an associate Software Engineer working in the fintech sector at a company called Synthesis Software Technologies. 
-I specialise in data engineering and I am currently working with Confluent Kafka and Java. My other tech stack experience is in the following:
+My name is Noel. I am a Senior Full Stack Software Engineer working in the medical sector at WhatsUpDoctor. 
+My tech stack experience is in the following:
 * Data analysis using Jupyter Notebook and Python
 * NLC ML working with GPT-3
 * OOP backend dev with Python and Flask
@@ -12,7 +12,7 @@ I specialise in data engineering and I am currently working with Confluent Kafka
 
 I am currently working on my own personal web application using Java Springboot, postgreSQL, AWS, liquibase, docker and React.
 
-I have a huge interest in fitness technology and ML. I can talk gaming but don't have much time to do it anymore...
+I have a huge interest in fitness technology and ML.
 
 Come explore my projects!
 <!---
