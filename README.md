@@ -1,5 +1,8 @@
 My name is Noel. I am a Senior Full Stack Software Engineer working in the medical sector at WhatsUpDoctor. 
 My tech stack experience is in the following:
+* Python backend development with Django and .NET
+* Front end development in Django with vanilla HTML and Tailwindcss
+* Event-driven arcitectures with Kafka, celery (django) and Akka.NET
 * Data analysis using Jupyter Notebook and Python
 * NLC ML working with GPT-3
 * OOP backend dev with Python and Flask
@@ -8,9 +11,9 @@ My tech stack experience is in the following:
 * IaC using Terafrom and Ansible
 * Cloud with AWS and a touch of Azure (Certified in both but with more exp in AWS)
 * Application Deployment using Docker
-* And a whole looooot of testing with Python's unittest library and Java's junit library
+* And a whole looooot of testing with a range of tools
 
-I am currently working on my own personal web application using Java Springboot, postgreSQL, AWS, liquibase, docker and React.
+I am currently working on my own personal web application using .NET, postgreSQL, AWS, docker and React.
 
 I have a huge interest in fitness technology and ML.
 
