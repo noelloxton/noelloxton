@@ -1,4 +1,4 @@
-My name is Noel. I am a Senior Full Stack Software Engineer working in the medical sector at WhatsUpDoctor. 
+My name is Noel. I am a Senior Full Stack Software Engineer. 
 My tech stack experience is in the following:
 * Python backend development with Django and .NET
 * Front end development in Django with vanilla HTML and Tailwindcss
