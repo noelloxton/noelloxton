@@ -1,24 +1,58 @@
-My name is Noel. I am a Senior Full Stack Software Engineer. 
-My tech stack experience is in the following:
-* Python backend development with Django and .NET
-* Front end development in Django with vanilla HTML and Tailwindcss
-* Event-driven arcitectures with Kafka, celery (django) and Akka.NET
-* Data analysis using Jupyter Notebook and Python
-* NLC ML working with GPT-3
-* OOP backend dev with Python and Flask
-* Frontend and UI development using React in JS and TS
-* Database (SQL - MySQL & postgreSQL) + (NoSQL - MongoDB)
-* IaC using Terafrom and Ansible
-* Cloud with AWS and a touch of Azure (Certified in both but with more exp in AWS)
-* Application Deployment using Docker
-* And a whole looooot of testing with a range of tools
+# Hi, I'm Noel
 
-I am currently working on my own personal web application using .NET, postgreSQL, AWS, docker and React.
+I'm a **Senior Full-Stack Software Engineer & Technical Lead** with 5+ years of experience building production-grade applications across startups and enterprise clients. I specialise in cloud architecture, full-stack development, and leading technical teams.
 
-I have a huge interest in fitness technology and ML.
+## About Me
 
-Come explore my projects!
-<!---
-noelloxton/noelloxton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Currently serving as **Technical Lead** at Canence, architecting web applications from the ground up
+- Building production systems across **Healthcare Tech**, **Property Management**, **Financial Trading**, and **Data Platforms**
+- Dual citizenship (South Africa 🇿🇦 & Ireland 🇮🇪) - open to opportunities in Europe
+- Ironman athlete and endurance sports enthusiast
+- B.Sc. Engineering in Mechatronics from University of Cape Town
+
+## Tech Stack
+
+**Languages:**  
+Python • C#/.NET • JavaScript/TypeScript
+
+**Backend Frameworks:**  
+Django • FastAPI • Flask • .NET ServiceStack
+
+**Frontend:**  
+React • Next.js • HTML • Tailwind CSS • Vanilla JavaScript
+
+**Data & ML:**  
+Pandas • Jupyter • Apache Kafka • Apache Airflow • GPT-3/NLP • Weights & Biases
+
+**Cloud & Infrastructure:**  
+AWS (Certified) • Azure (Certified) • Docker • Terraform • AWS CDK
+
+**Databases:**  
+PostgreSQL • MySQL • MongoDB
+
+**Event-Driven Architecture:**  
+Apache Kafka • Celery • Akka.NET • KSQL • KStreams
+
+**Testing:**  
+pytest • TDD/OOP practices • Integration testing • CI/CD pipelines
+
+## Current Projects
+
+🔨 Building two full web applications using **Python FastAPI**, **React with TypeScript**, and **AWS**:
+- [TestTrack](https://www.testtrack.app/) - Assessment management platform
+- [SmartMarker](https://www.smartmarker.app/) - Intelligent grading solution
+
+## Areas of Interest
+
+- Fitness & Health Technology
+- Machine Learning & AI Applications
+- Cloud-Native Architecture
+- Data Engineering & Analytics
+
+## Let's Connect
+
+- [LinkedIn](www.linkedin.com/in/noelloxton)
+- noel@deltainnovate.com
+---
+
+**Come explore my projects below! 👇**
