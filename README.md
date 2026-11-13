@@ -1,10 +1,10 @@
 # Hi, I'm Noel
 
-I'm a **Senior Full-Stack Software Engineer & Technical Lead** with 5+ years of experience building production-grade applications across startups and enterprise clients. I specialise in cloud architecture, full-stack development, and leading technical teams.
+I'm a **Senior Full-Stack Software Engineer & Technical Lead** with 6+ years of experience building production-grade applications across startups and enterprise clients. I specialise in cloud architecture, full-stack development, and leading technical teams.
 
 ## About Me
 
-- Currently serving as **Technical Lead** at Canence, architecting web applications from the ground up
+- Currently serving as **Technical Lead** at PWC South Africa in the AI & Modelling Services Team, architecting web applications from the ground up
 - Building production systems across **Healthcare Tech**, **Property Management**, **Financial Trading**, and **Data Platforms**
 - Dual citizenship (South Africa 🇿🇦 & Ireland 🇮🇪) - open to opportunities in Europe
 - Ironman athlete and endurance sports enthusiast
